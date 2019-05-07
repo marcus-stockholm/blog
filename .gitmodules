@@ -1,0 +1,8 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/marcus-stockholm/marcus-stockholm.github.io.git
+	branch = master
+[submodule "themes/blackburn"]
+	path = themes/blackburn
+	url = https://github.com/yoshiharuyamashita/blackburn.git
+	branch = master
