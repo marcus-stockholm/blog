@@ -23,34 +23,46 @@ theme = "blackburn"
   dateFormat = "02 Jan 2006, 15:04"
   # Include any custom CSS and/or JS files
   # (relative to /static folder)
-  custom_css = ["css/my.css"]
-  custom_js = ["js/my.js"]
+  # custom_css = ["css/menu.css"]
+  # custom_js = ["js/my.js"]
 
 [menu]
   # Shown in the side menu.
   [[menu.main]]
     name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
+    pre = "<i class='fas fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
     url = "/"
   [[menu.main]]
     name = "Posts"
-    pre = "<i class='fa fa-list fa-fw'></i>"
+    pre = "<i class='fas fa-list fa-fw'></i>"
     weight = 2
     identifier = "post"
     url = "/post/"
   [[menu.main]]
     name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
+    pre = "<i class='fas fa-user fa-fw'></i>"
     weight = 3
     identifier = "about"
     url = "/about/"
   [[menu.main]]
     name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
+    pre = "<i class='fas fa-phone fa-fw'></i>"
     weight = 4
     url = "/contact/"
+  [[menu.main]]
+    name = "Programming services"
+    pre = "<i class='fas fa-file-code fa-fw'></i>"
+    weight = 5
+    url = "/programming/"
+  [[menu.main]]
+    name = "Legal"
+    pre = "<i class='fas fa-balance-scale fa-fw''></i>"
+    weight = 6
+    url = "/legal/"
+
+    
 
 [social]
   # Link your social networking accounts to the side menu
