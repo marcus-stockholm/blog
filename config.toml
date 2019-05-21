@@ -2,7 +2,6 @@ baseurl = "https://marcus-stockholm.github.io/" # Make sure to end baseurl with 
 title = "Game programmer"
 author = "Marcus Jungell"
 # Shown in the side menu
-copyright = "&copy; 2019. All rights reserved."
 canonifyurls = true
 paginate = 10
 theme = "blackburn"
@@ -29,43 +28,41 @@ theme = "blackburn"
 [menu]
   # Shown in the side menu.
   [[menu.main]]
-    name = "Home"
-    pre = "<i class='fas fa-home fa-fw'></i>"
+    name = ""
+    pre = "<img src='/icons/home.svg' width='16' height='16' />"
     weight = 1
     identifier = "home"
     url = "/"
   [[menu.main]]
     name = "Blog"
-    pre = "<i class='fas fa-list fa-fw'></i>"
+    pre = "<img src='/icons/brackets.svg' width='16' height='16' />"
     weight = 2
     identifier = "post"
     url = "/post/"
   [[menu.main]]
-    name = "About"
-    pre = "<i class='fas fa-user fa-fw'></i>"
+    name = "Services"
+    pre = "<img src='/icons/code.svg' width='16' height='16' />"
     weight = 3
-    identifier = "about"
-    url = "/about/"
-  [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fas fa-phone fa-fw'></i>"
-    weight = 4
-    identifier = "contact"
-    url = "/contact/"
-  [[menu.main]]
-    name = "Programming services"
-    pre = "<i class='fas fa-file-code fa-fw'></i>"
-    weight = 5
     identifier = "services"
     url = "/services/"
   [[menu.main]]
+    name = "Profile"
+    pre = "<img src='/icons/profile.svg' width='16' height='16' />"
+    weight = 4
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
     name = "Legal"
-    pre = "<i class='fas fa-balance-scale fa-fw''></i>"
-    weight = 6
+    pre = "<img src='/icons/law.svg' width='16' height='16' />"
+    weight = 5
     identifier = "legal"
     url = "/legal/"
-
-    
+  [[menu.main]]
+    name = "Contact"
+    pre = "<img src='/icons/envelope.svg' width='16' height='16' />"
+    weight = 6
+    identifier = "contact"
+    url = "/contact/"
 
 [social]
   # Link your social networking accounts to the side menu

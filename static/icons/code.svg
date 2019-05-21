@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="code.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" /><sodipodi:namedview
+   pagecolor="#000000"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2560"
+   inkscape:window-height="1330"
+   id="namedview19"
+   showgrid="false"
+   inkscape:pagecheckerboard="true"
+   inkscape:zoom="14.75"
+   inkscape:cx="32"
+   inkscape:cy="32"
+   inkscape:window-x="2228"
+   inkscape:window-y="-12"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g16"
+   style="fill:#800080">
+	<polygon
+   points="20.6,27.6 10.2,38 20.6,48.4 23.4,45.6 15.8,38 23.4,30.4  "
+   id="polygon2"
+   style="fill:#800080" />
+	<polygon
+   points="40.6,30.4 48.2,38 40.6,45.6 43.4,48.4 53.8,38 43.4,27.6  "
+   id="polygon4"
+   style="fill:#800080" />
+	<rect
+   x="30"
+   y="23.1"
+   transform="matrix(-0.9377 -0.3473 0.3473 -0.9377 48.9833 83.7798)"
+   width="4"
+   height="28.8"
+   id="rect6"
+   style="fill:#800080" />
+	<path
+   d="M60,0H4C1.8,0,0,1.8,0,4v8h0v48c0,2.2,1.8,4,4,4h56c2.2,0,4-1.8,4-4V13v-1V4C64,1.8,62.2,0,60,0z M4,60V16h56l0,44H4z    M4,12V4h56v8H4z"
+   id="path8"
+   style="fill:#800080" />
+	<circle
+   cx="8"
+   cy="8"
+   r="2"
+   id="circle10"
+   style="fill:#800080" />
+	<circle
+   cx="13"
+   cy="8"
+   r="2"
+   id="circle12"
+   style="fill:#800080" />
+	<circle
+   cx="18"
+   cy="8"
+   r="2"
+   id="circle14"
+   style="fill:#800080" />
+</g>
+</svg>
