@@ -20,10 +20,6 @@ theme = "blackburn"
   highlightjs = "androidstudio"
   highlightjs_extra_languages = ["yaml"]
   dateFormat = "02 Jan 2006, 15:04"
-  # Include any custom CSS and/or JS files
-  # (relative to /static folder)
-  # custom_css = ["css/menu.css"]
-  # custom_js = ["js/my.js"]
 
 [menu]
   # Shown in the side menu.
