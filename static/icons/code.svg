@@ -36,7 +36,7 @@
    showgrid="false"
    inkscape:pagecheckerboard="true"
    inkscape:zoom="14.75"
-   inkscape:cx="32"
+   inkscape:cx="1.7627119"
    inkscape:cy="32"
    inkscape:window-x="2228"
    inkscape:window-y="-12"
@@ -44,15 +44,15 @@
    inkscape:current-layer="Layer_1" />
 <g
    id="g16"
-   style="fill:#800080">
+   style="fill:#999999">
 	<polygon
    points="20.6,27.6 10.2,38 20.6,48.4 23.4,45.6 15.8,38 23.4,30.4  "
    id="polygon2"
-   style="fill:#800080" />
+   style="fill:#999999" />
 	<polygon
    points="40.6,30.4 48.2,38 40.6,45.6 43.4,48.4 53.8,38 43.4,27.6  "
    id="polygon4"
-   style="fill:#800080" />
+   style="fill:#999999" />
 	<rect
    x="30"
    y="23.1"
@@ -60,28 +60,28 @@
    width="4"
    height="28.8"
    id="rect6"
-   style="fill:#800080" />
+   style="fill:#999999" />
 	<path
    d="M60,0H4C1.8,0,0,1.8,0,4v8h0v48c0,2.2,1.8,4,4,4h56c2.2,0,4-1.8,4-4V13v-1V4C64,1.8,62.2,0,60,0z M4,60V16h56l0,44H4z    M4,12V4h56v8H4z"
    id="path8"
-   style="fill:#800080" />
+   style="fill:#999999" />
 	<circle
    cx="8"
    cy="8"
    r="2"
    id="circle10"
-   style="fill:#800080" />
+   style="fill:#999999" />
 	<circle
    cx="13"
    cy="8"
    r="2"
    id="circle12"
-   style="fill:#800080" />
+   style="fill:#999999" />
 	<circle
    cx="18"
    cy="8"
    r="2"
    id="circle14"
-   style="fill:#800080" />
+   style="fill:#999999" />
 </g>
 </svg>

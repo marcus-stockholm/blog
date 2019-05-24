@@ -1,5 +1,5 @@
 baseurl = "https://marcus-stockholm.github.io/" # Make sure to end baseurl with a '/'
-title = "Game programmer"
+title = "Game Programmer"
 author = "Marcus Jungell"
 # Shown in the side menu
 canonifyurls = true
@@ -12,7 +12,7 @@ theme = "blackburn"
 
 [params]
   # Shown in the home page
-  subtitle = "Engineering mathematics"
+  subtitle = "C++ - Engineering Mathematics - Stockholm"
   # brand = ""
   # googleAnalytics = ""
   # disqus = ""
