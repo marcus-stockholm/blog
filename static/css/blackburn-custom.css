@@ -1,14 +1,15 @@
 body {
   background-color: black;
   color: white;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .header {
   background-color: black;
-  font-family: "Raleway", Helvetica, Arial, sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   color: white;
   padding: 0px;
-  border-bottom-color: black;
+  border-bottom-color: white;
 }
 
 a {
@@ -65,7 +66,6 @@ article > footer {
 }
 
 #menu .brand {
-  font-family: Raleway;
   font-weight: bold;
   font-size: 1em;
   letter-spacing: 0.1em;
