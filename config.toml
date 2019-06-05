@@ -5,6 +5,7 @@ author = "Marcus Jungell"
 canonifyurls = true
 paginate = 10
 theme = "blackburn"
+# summaryLength = 5
 
 [indexes]
   tag = "tags"
@@ -14,7 +15,6 @@ theme = "blackburn"
   # Shown in the home page
   subtitle = "C++ - Engineering Mathematics - Stockholm"
   # brand = ""
-  # googleAnalytics = ""
   # disqus = ""
   # CSS name for highlight.js
   dateFormat = "02 Jan 2006, 15:04"
