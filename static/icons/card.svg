@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="79px"
+   style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+   version="1.0"
+   viewBox="0 0 95049 59034"
+   width="128px"
+   xml:space="preserve"
+   id="svg9"
+   sodipodi:docname="card.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+     id="metadata13"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1330"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="11.949367"
+     inkscape:cx="64"
+     inkscape:cy="39.5"
+     inkscape:window-x="2228"
+     inkscape:window-y="-12"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" /><defs
+     id="defs4"><style
+       type="text/css"
+       id="style2">
+   <![CDATA[
+    .fil0 {fill:#E6C131}
+   ]]>
+  </style></defs><g
+     id="Layer_x0020_1"
+     style="fill:#999999"><path
+       class="fil0"
+       d="M7899 0l79251 0c4344,0 7899,3554 7899,7899l0 43236c0,4345 -3555,7899 -7899,7899l-79251 0c-4345,0 -7899,-3554 -7899,-7899l0 -43236c0,-4345 3554,-7899 7899,-7899zm-3258 8168l85767 0 0 12995 -85767 0 0 -12995zm5616 25943l18894 0 0 4456 -18894 0 0 -4456zm53372 -2320c1399,0 2717,344 3875,952 -1666,2009 -2668,4588 -2668,7402 0,2813 1002,5393 2668,7401 -1158,608 -2476,952 -3875,952 -4613,0 -8353,-3740 -8353,-8353 0,-4614 3740,-8354 8353,-8354zm12810 0c4613,0 8353,3740 8353,8354 0,4613 -3740,8353 -8353,8353 -4614,0 -8354,-3740 -8354,-8353 0,-4614 3740,-8354 8354,-8354zm-66182 11185l29865 0 0 4455 -29865 0 0 -4455z"
+       id="path6"
+       style="fill:#999999" /></g></svg>

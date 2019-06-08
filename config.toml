@@ -32,27 +32,33 @@ theme = "blackburn"
     identifier = "post"
     url = "/post/"
   [[menu.main]]
-    name = "Services"
-    pre = "<img src='/icons/code.svg' width='16' height='16' />"
-    weight = 3
-    identifier = "services"
-    url = "/services/"
-  [[menu.main]]
     name = "Profile"
     pre = "<img src='/icons/profile.svg' width='16' height='16' />"
-    weight = 4
+    weight = 3
     identifier = "about"
     url = "/about/"
   [[menu.main]]
+    name = "Services"
+    pre = "<img src='/icons/code.svg' width='16' height='16' />"
+    weight = 4
+    identifier = "services"
+    url = "/services/"
+  [[menu.main]]
+    name = "Payment"
+    pre = "<img src='/icons/card.svg' width='16' height='16' />"
+    weight = 5
+    identifier = "payment"
+    url = "/payment/"
+  [[menu.main]]
     name = "Legal"
     pre = "<img src='/icons/law.svg' width='16' height='16' />"
-    weight = 5
+    weight = 6
     identifier = "legal"
     url = "/legal/"
   [[menu.main]]
     name = "Contact"
     pre = "<img src='/icons/envelope.svg' width='16' height='16' />"
-    weight = 6
+    weight = 7
     identifier = "contact"
     url = "/contact/"
 
